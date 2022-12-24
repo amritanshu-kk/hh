@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 📊 Learn DSA
+linkTitle: DSA Course/Sheet
+summary: A course for 21st century students.
+date: '2022-09-19'
 type: book
 tags:
   - current
@@ -14,13 +14,13 @@ tags:
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Fundamental {{<hl>}}Java with DSA programming skills{{</hl>}}
+- {{<hl>}}DSA concepts{{</hl>}} and how to apply them in practice
+- Gain experience with the {{<hl>}}Eclipse IDE{{</hl>}}, including best coding style with {{<hl>}}Java{{</hl>}} and most optimised solution.
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+The demand for Java developer is rapidly growing.Learn and get placed in product based companies.
 
 ## Courses in this program
 
@@ -40,4 +40,4 @@ There are no prerequisites for the first course.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the course" cta_link="Java" >}}
