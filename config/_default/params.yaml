@@ -83,7 +83,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: Amritanshu
+    provider: Amritanshu Verma
     algolia:
       app_id: ''
       api_key: ''
