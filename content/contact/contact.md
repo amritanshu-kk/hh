@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Documentation: 
 widget: contact
 
 # This file represents a page section.
@@ -14,13 +14,9 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: test@example.org
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: comments
-      icon_pack: fas
-      name: Discuss on the forum
-      link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
+  email: amritanshu26dec@gmail.com
+  appointment_url: 'https://forms.gle/ZJcu8Xvx93KjDdyW9'
+ 
 
   # Automatically link email and phone or display as text?
   autolink: true
@@ -37,5 +33,7 @@ content:
 design:
   columns: '1'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Hey there 👋! Glad to see you here ❤️
+I'm a developer having interests in Java 🤩
+📝 I regulary write articles on thealphaking.medium.com
+📫 I would enjoy listening to your thoughts and ideas over a cup of coffee, please connect at amritanshu26dec@gmail.com
