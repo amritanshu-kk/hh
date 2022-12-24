@@ -1,52 +1,50 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amritanshu Kumar Verma
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Java Instructor and Product Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: GFTI - Gurukula Kangri (Deemed to be University)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a passionate developer always ready to learn and grow through exposure.Looking forward to working with people for bringing something innovative.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Java
+  - Springboot
+  - Hibernate
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Tech in Computer Science and Engineering
+      institution: Gurukula Kangri (Deemed to be University)
+      year: 2022
+    - course: Xth CBSE
+      institution: D.A.V Public School
+      year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:amritanshu26dec@gmail.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:amritanshu26dec@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/the__alpha_king
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/amritanshu-kk
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,4 +58,3 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
