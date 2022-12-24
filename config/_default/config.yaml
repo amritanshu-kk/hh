@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Online Courses' # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 'Code with Amritanshu' # Website name
+baseURL: 'https://amritanshu.herokuapp.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
